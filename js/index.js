@@ -71,7 +71,7 @@ sure_btn.onclick = function () {
 
     $.ajax({
         type: "get",
-        url: "http://49.232.68.86/cp/cpname",
+        url: "https://cp.ssss.men/cp/cpname",
         contentType: "application/x-www-form-urlencoded;charset=utf-8",
         data: {
             name1: name1,
